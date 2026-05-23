@@ -1,8 +1,9 @@
-venv
-.venv
-env
-__pycache__
+.venv/
+__pycache__/
 *.pyc
-*.pyo
-*.pyd
-.Python
+.env
+.DS_Store
+*.db
+data/
+.vscode/
+*.egg-info/
